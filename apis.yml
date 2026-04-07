@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: crs-credit-api:crs-credit-api
     name: CRS Credit API
-    tags:
-      - API
+    tags: []
     humanURL: https://crscreditapi.com/
     properties:
       - url: https://crscreditapi.com/
@@ -15,8 +14,8 @@ apis:
       solutions. Experience the advantage of credit data-as-a-service with CRS.
 name: CRS Credit API
 tags:
-  - Data
   - Credit
+  - Data
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party

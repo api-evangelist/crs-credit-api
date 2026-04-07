@@ -11,9 +11,8 @@ apis:
       - url: https://crscreditapi.com/
         type: Documentation
     description: >-
-      Power fast, compliant financial decisioning with all-in-one credit data
-      API solutions. Experience the advantage of credit data-as-a-service with
-      CRS. 
+      Power fast, compliant financial decisioning with all-in-one credit data API
+      solutions. Experience the advantage of credit data-as-a-service with CRS.
 name: CRS Credit API
 tags:
   - Data
@@ -25,8 +24,8 @@ created: '2024-11-14'
 modified: '2026-03-16'
 position: Consuming
 description: >-
-  Power fast, compliant financial decisioning with all-in-one credit data API
-  solutions. Experience the advantage of credit data-as-a-service with CRS. 
+  Power fast, compliant financial decisioning with all-in-one credit data API solutions.
+  Experience the advantage of credit data-as-a-service with CRS.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

@@ -1,7 +1,7 @@
 aid: crs-credit-api
 url: >-
   https://raw.githubusercontent.com/api-evangelist/crs-credit-api/refs/heads/main/apis.yml
-x-type: company
+kind: company
 name: CRS Credit API
 description: >-
   CRS Credit API delivers credit data-as-a-service for fast, compliant financial
@@ -17,7 +17,7 @@ tags:
   - Identity
   - Fraud
   - Data
-type: Contract
+kind: contract
 access: 3rd-Party
 position: Consuming
 specificationVersion: '0.19'

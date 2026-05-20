@@ -98,6 +98,8 @@ useCases:
   - name: Credit Monitoring Services
     description: Consumer fintech apps surface real-time alerts on credit profile changes to end users.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crscreditapi
   - url: https://crscreditapi.com/
     type: Website
   - url: https://crscreditapi.redoc.ly/

@@ -98,6 +98,8 @@ useCases:
   - name: Credit Monitoring Services
     description: Consumer fintech apps surface real-time alerts on credit profile changes to end users.
 common:
+  - type: DomainSecurity
+    url: security/crs-credit-api-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/crscreditapi
   - url: https://crscreditapi.com/
@@ -106,6 +108,8 @@ common:
     type: Documentation
   - url: https://crscreditapi.redoc.ly/
     type: Reference
+  - url: https://crscreditapi.com/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

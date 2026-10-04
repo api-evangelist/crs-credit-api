@@ -38,6 +38,13 @@ tags:
   - Consumer Credit
   - Business Credit
   - Identity
+  - Fraud Prevention
+  - Data
+tags_raw:
+  - Credit
+  - Consumer Credit
+  - Business Credit
+  - Identity
   - Fraud
   - Data
 kind: contract
